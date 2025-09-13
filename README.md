@@ -13,7 +13,7 @@
 
 ```yaml
 name: Kael Vic
-role: Full Stack Developer
+role: Senior Golang Developer
 interests:
   - Mobile apps with React Native
   - Beautiful web UIs with Next.js
