@@ -37,8 +37,7 @@ Stripe payments, maintenance tickets, push notifications, and more.
 <p align="center"> <a href="https://about-me-gold-three.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-00cc99?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 📊 GitHub Stats (Gradient Mode)
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kaelvictoria&show_icons=true&theme=react&hide_border=true&border_radius=10" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=top-dev0810&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
-🏆 Trophy Wall
-<a href="https://github.com/kaelvictoria?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=top-dev0810&theme=onestar&no-frame=true&column=6&row=1"  width="96%" alt="@bearjobsniper's trophy stats"/></a>
+
 🔗 Connect With Me
 <p align="center"> <a href="mailto:kaelvictoria0328@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/kaelvictoria"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://about-me-gold-three.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 ⚡ Magic Quote
