@@ -12,7 +12,7 @@
 ### 🧙‍♂️ Who Am I?
 
 ```yaml
-name: Kael Vic
+name: Roman Borisenko
 role: Senior Golang Developer
 interests:
   - Mobile apps with React Native
