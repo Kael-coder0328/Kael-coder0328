@@ -8,7 +8,7 @@
 </p>
 
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,typescript,nodejs,golang,supabase,firebase,python,vercel,github" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,kotline,nextjs,tailwind,typescript,nodejs,golang,supabase,firebase,python,vercel,github" /> </p>
 
 <p align="center"> <a href="https://about-me-gold-three.vercel.app"> <img src="https://img.shields.io/badge/🌐%20Live%20Preview-FF61D6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
