@@ -8,16 +8,7 @@
 </p>
 
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,typescript,nodejs,supabase,firebase,python,vercel,github" /> </p>
-<!-- 
-🌈 Featured Project – RentDemo
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=soft&color=8E2DE2,FF61D6&height=160&section=header&text=RentDemo&fontSize=45&fontAlign=50&fontColor=ffffff" /> </p>
-🏢 A white-label, multi-tenant SaaS platform for apartment buildings.
-💡 Features include:
-Custom-branded mobile apps
-Admin dashboards for building managers
-Stripe payments, maintenance tickets, push notifications, and more. 
--->
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,react native,nextjs,tailwind,typescript,nodejs, golang, supabase,firebase,python,vercel,github" /> </p>
 
 <p align="center"> <a href="https://about-me-gold-three.vercel.app"> <img src="https://img.shields.io/badge/🌐%20Live%20Preview-FF61D6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 
