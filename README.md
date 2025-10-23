@@ -10,9 +10,6 @@
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,kotline,nextjs,tailwind,typescript,nodejs,golang,supabase,firebase,python,vercel,github" /> </p>
 
-<p align="center"> <a href="https://about-me-gold-three.vercel.app"> <img src="https://img.shields.io/badge/🌐%20Live%20Preview-FF61D6?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
-
-<p align="center"> <a href="https://about-me-gold-three.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Live-Demo-00cc99?style=for-the-badge&logo=vercel&logoColor=white" /> </a> </p>
 📊 GitHub Stats (Gradient Mode)
 <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kael-coder0328&show_icons=true&theme=react&hide_border=true&border_radius=10" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kael-coder0328&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </p>
 
