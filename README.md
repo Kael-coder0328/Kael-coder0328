@@ -7,19 +7,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
----
-
-### 🧙‍♂️ Who Am I?
-
-```yaml
-name: Roman Borisenko
-role: Senior Golang Developer
-interests:
-  - Mobile apps with React Native
-  - Beautiful web UIs with Next.js
-  - Supabase-powered backends
-  - Scalable SaaS platforms
-```
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,tailwind,typescript,nodejs,supabase,firebase,python,vercel,github" /> </p>
 <!-- 
