@@ -1,9 +1,5 @@
 <!-- HEADER WITH TYPING EFFECT -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F94DFF&center=true&vCenter=true&width=450&lines=Hi+I'm+Roman+Borisenko;Full-Stack+Developer+%F0%9F%9A%80" />
-</p>
-
-<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
 </p>
 
