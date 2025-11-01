@@ -4,7 +4,9 @@
 </p>
 
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,kotline,nextjs,tailwind,typescript,nodejs,golang,supabase,firebase,python,vercel,github" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,laravel,tailwind,sass,materialui,typescript,cpp,solidity,nodejs,python,rust,golang,java,flutter,mysql,postgresql,sqlite,mongodb,graphql,supabase,firebase,docker,aws,vercel,github" />
+</p>
 
 📊 GitHub Stats (Gradient Mode)
 <p align="center">
