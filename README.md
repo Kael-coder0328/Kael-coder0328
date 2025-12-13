@@ -5,7 +5,7 @@
 
 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,laravel,tailwind,sass,materialui,typescript,cpp,solidity,nodejs,python,rust,golang,java,flutter,mysql,postgresql,sqlite,mongodb,graphql,supabase,firebase,docker,aws,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=rust,golang,cpp,solidity,nodejs,python,java,react,nextjs,vue,laravel,tailwind,sass,materialui,typescript,flutter,mysql,postgresql,sqlite,mongodb,graphql,supabase,firebase,docker,aws,vercel,github" />
 </p>
 
 📊 GitHub Stats (Gradient Mode)
