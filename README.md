@@ -11,7 +11,7 @@
 📊 GitHub Stats (Gradient Mode)
 
 <p align="center">
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=CrystyTalent&show_icons=true&theme=react&hide_border=true&border_radius=10" /> 
+  
   <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrystyTalent&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   <img width="32%" src="https://nirzak-streak-stats.vercel.app/?user=CrystyTalent&theme=react&hide_border=true" />
 </p>
