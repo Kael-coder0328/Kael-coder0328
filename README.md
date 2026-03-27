@@ -19,7 +19,7 @@
 
 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:crystylue@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
+  <a href="mailto:pink.king0328@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
   <a href="https://github.com/TalentvCrysty"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> 
   <a href="https://crysty-talent.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </a> 
 </p>
