@@ -17,11 +17,5 @@
   <img width="32%" src="https://github-readme-stats.vercel.app/api?username=TalentvCrysty&show_icons=true&theme=react&hide_border=true&border_radius=10" /> 
 </p>
 
-🔗 Connect With Me
-<p align="center">
-  <a href="mailto:pink.king0328@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
-  <a href="https://github.com/TalentvCrysty"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /> </a> 
-  <a href="https://crysty-talent.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /> </a> 
-</p>
 ⚡ Magic Quote
 <p align="center"><i>"Don’t just code it. Craft it."</i></p> <p align="center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61D6,8E2DE2&height=100&section=footer"/> </p>
