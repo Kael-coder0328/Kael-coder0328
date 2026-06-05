@@ -12,9 +12,9 @@
 
 <p align="center">
   
-  <img width="32%" src="https://nirzak-streak-stats.vercel.app/?user=TalentvCrysty&theme=react&hide_border=true" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalentvCrysty&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
-  <img width="32%" src="https://github-readme-stats.vercel.app/api?username=TalentvCrysty&show_icons=true&theme=react&hide_border=true&border_radius=10" /> 
+  <img src="https://nirzak-streak-stats.vercel.app/?user=TalentvCrysty&theme=react&hide_border=true" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalentvCrysty&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TalentvCrysty&show_icons=true&theme=react&hide_border=true&border_radius=10" width="32%" /> 
 </p>
 
 ⚡ Magic Quote
